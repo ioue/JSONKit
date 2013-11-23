@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.author   = 'John Engelhart'
   s.source   = { :git => 'https://github.com/jstart/JSONKit.git', :tag => '1.6' }
 
-  s.source_files   = 'JSONKit.*'
+  s.source_files   = ‘Source/JSONKit.*'
 end
